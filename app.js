@@ -7,7 +7,7 @@
         "method": "GET",
         "headers": {
             "x-rapidapi-host": "mashape-community-urban-dictionary.p.rapidapi.com",
-            "x-rapidapi-key": "2d97da7ac2msh170f86a79f1b536p1cc028jsnfaefbe0dc526"
+            "x-rapidapi-key": YOUR-API-KEY
             }
         })
         .then(function (response) {
